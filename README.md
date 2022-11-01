@@ -1,3 +1,9 @@
+This react app is a calculator application
+
+The purpose of it is to be able to access a calculator from the main page by switching to the tab with it
+
+The main program should be run as usual and should work
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
